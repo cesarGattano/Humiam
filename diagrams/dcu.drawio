@@ -19,6 +19,9 @@
         <mxCell id="9TADoRmllmL4b8_6EY1u-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="640" width="520" x="160" y="120" as="geometry" />
         </mxCell>
+        <mxCell id="XaeAfMVYlXvFdwcrmIqc-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Connexion" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
