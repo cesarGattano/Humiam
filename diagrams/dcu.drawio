@@ -1,26 +1,266 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.6">
   <diagram name="Page-1" id="CulMz4PveRYO6LDxUwbx">
-    <mxGraphModel dx="1378" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2205" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9TADoRmllmL4b8_6EY1u-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="User" vertex="1">
-          <mxGeometry height="60" width="30" x="90" y="190" as="geometry" />
+        <mxCell id="9TADoRmllmL4b8_6EY1u-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="2540" width="1580" x="160" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="9TADoRmllmL4b8_6EY1u-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;div&gt;Admin&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="30" x="90" y="330" as="geometry" />
+        <mxCell id="38mydbl2jf28mPlL-PYl-8" edge="1" parent="1" source="9TADoRmllmL4b8_6EY1u-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;strokeColor=light-dark(#26a269, #ededed);entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" target="38mydbl2jf28mPlL-PYl-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="377" />
+              <mxPoint x="90" y="30" />
+              <mxPoint x="340" y="30" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="9TADoRmllmL4b8_6EY1u-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Company&lt;br&gt;&lt;div&gt;Representant&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="30" x="90" y="470" as="geometry" />
+        <mxCell id="9TADoRmllmL4b8_6EY1u-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=light-dark(#26a269, #ededed);strokeWidth=3;" value="User" vertex="1">
+          <mxGeometry height="60" width="30" x="20" y="347.25" as="geometry" />
         </mxCell>
-        <mxCell id="9TADoRmllmL4b8_6EY1u-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Restaurant&lt;br&gt;&lt;div&gt;Representant&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="30" x="90" y="620" as="geometry" />
+        <mxCell id="38mydbl2jf28mPlL-PYl-9" edge="1" parent="1" source="9TADoRmllmL4b8_6EY1u-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#613583, #ededed);strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" target="38mydbl2jf28mPlL-PYl-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="810" />
+              <mxPoint x="140" y="90" />
+              <mxPoint x="340" y="90" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="9TADoRmllmL4b8_6EY1u-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="640" width="520" x="160" y="120" as="geometry" />
+        <mxCell id="9TADoRmllmL4b8_6EY1u-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=light-dark(#613583, #ededed);strokeWidth=3;" value="&lt;div&gt;Admin&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="20" y="780" as="geometry" />
         </mxCell>
-        <mxCell id="XaeAfMVYlXvFdwcrmIqc-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Connexion" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="190" as="geometry" />
+        <mxCell id="38mydbl2jf28mPlL-PYl-10" edge="1" parent="1" source="9TADoRmllmL4b8_6EY1u-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#a51d2d, #ededed);strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" target="38mydbl2jf28mPlL-PYl-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="500" />
+              <mxPoint x="100" y="50" />
+              <mxPoint x="340" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TADoRmllmL4b8_6EY1u-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=light-dark(#a51d2d, #ededed);strokeWidth=3;" value="Company&lt;br&gt;&lt;div&gt;Representant&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="20" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-11" edge="1" parent="1" source="9TADoRmllmL4b8_6EY1u-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#1a5fb4, #ededed);strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" target="38mydbl2jf28mPlL-PYl-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="650" />
+              <mxPoint x="120" y="70" />
+              <mxPoint x="340" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9TADoRmllmL4b8_6EY1u-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=light-dark(#1a5fb4, #ededed);strokeWidth=3;" value="Restaurant&lt;br&gt;&lt;div&gt;Representant&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="20" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-4" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="Home page" vertex="1">
+          <mxGeometry height="1010" width="280" x="200" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-5" parent="38mydbl2jf28mPlL-PYl-4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;Access connection page&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-1" parent="38mydbl2jf28mPlL-PYl-4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;div&gt;See the mosaic of the latest public recipes&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-6" parent="38mydbl2jf28mPlL-PYl-4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;Access create&amp;nbsp;&lt;/div&gt;&lt;div&gt;account page&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-68" parent="38mydbl2jf28mPlL-PYl-4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=light-dark(#26a269, #959595);strokeWidth=3;" value="&lt;div&gt;See random recipes of my individual catalogues&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-28" parent="38mydbl2jf28mPlL-PYl-4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=light-dark(#26a269, #5c79a3);strokeWidth=3;" value="Access individual catalogue of recipes" vertex="1">
+          <mxGeometry height="59" width="120" x="80" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-69" parent="38mydbl2jf28mPlL-PYl-4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=light-dark(#26a269, #996500);strokeWidth=3;" value="Add a contact as favorite for the homepage view&lt;br&gt;&lt;div&gt;(max N)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74.5" width="120" x="80" y="582.75" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-40" parent="38mydbl2jf28mPlL-PYl-4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#26A269;strokeWidth=3;" value="Add a public recipe in the individual catalogue" vertex="1">
+          <mxGeometry height="70" width="120" x="80" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-12" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="Connection page" vertex="1">
+          <mxGeometry height="290" width="280" x="510" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-14" parent="38mydbl2jf28mPlL-PYl-12" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Switch between connexion&lt;br&gt;individual /&amp;nbsp;&lt;br&gt;company representant /&amp;nbsp;&lt;br&gt;restaurant representant /&amp;nbsp;&lt;br&gt;admin" vertex="1">
+          <mxGeometry height="149" width="260" x="10" y="41" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-65" edge="1" parent="38mydbl2jf28mPlL-PYl-12" source="38mydbl2jf28mPlL-PYl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=0;" target="38mydbl2jf28mPlL-PYl-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-17" parent="38mydbl2jf28mPlL-PYl-12" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Log in" vertex="1">
+          <mxGeometry height="60" width="120" x="10" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-64" parent="38mydbl2jf28mPlL-PYl-12" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=light-dark(#26a269, #5c79a3);strokeWidth=3;" value="Access individual catalogue of recipes" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Log out (if logged in)" vertex="1">
+          <mxGeometry height="54.5" width="120" x="280" y="415.5" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-19" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="Create account page" vertex="1">
+          <mxGeometry height="495.5" width="280" x="510" y="464.5" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-20" parent="38mydbl2jf28mPlL-PYl-19" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Switch between creation&lt;br&gt;individual /&amp;nbsp;&lt;br&gt;company representant /&amp;nbsp;&lt;br&gt;restaurant representant&lt;br&gt;account" vertex="1">
+          <mxGeometry height="99" width="260" x="10" y="41" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-21" parent="38mydbl2jf28mPlL-PYl-19" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Fill the account&lt;/div&gt;&lt;div&gt;mandatory information&lt;/div&gt;" vertex="1">
+          <mxGeometry height="54.5" width="120" x="80" y="205.5" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-22" parent="38mydbl2jf28mPlL-PYl-19" style="rounded=1;whiteSpace=wrap;html=1;" value="Choose a password and confirm it" vertex="1">
+          <mxGeometry height="54.5" width="120" x="80" y="355.5" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Fill the account&lt;/div&gt;&lt;div&gt;optional information&lt;/div&gt;" vertex="1">
+          <mxGeometry height="54.5" width="120" x="590" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-24" edge="1" parent="1" source="38mydbl2jf28mPlL-PYl-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" target="38mydbl2jf28mPlL-PYl-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="370" />
+              <mxPoint x="455" y="110" />
+              <mxPoint x="650" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-25" edge="1" parent="1" source="38mydbl2jf28mPlL-PYl-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" target="38mydbl2jf28mPlL-PYl-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Create the account" vertex="1">
+          <mxGeometry height="54.5" width="120" x="590" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-32" parent="1" style="swimlane;whiteSpace=wrap;html=1;strokeColor=light-dark(#26a269, #a9b8c7);strokeWidth=3;fillColor=#647687;fontColor=#ffffff;" value="Individual catalogue page" vertex="1">
+          <mxGeometry height="540" width="280" x="930" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-33" parent="38mydbl2jf28mPlL-PYl-32" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="See the mosaic of the individual recipes" vertex="1">
+          <mxGeometry height="69" width="120" x="80" y="41" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-34" parent="38mydbl2jf28mPlL-PYl-32" style="rounded=1;whiteSpace=wrap;html=1;" value="Access a recipe page" vertex="1">
+          <mxGeometry height="54.5" width="120" x="80" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-44" parent="38mydbl2jf28mPlL-PYl-32" style="rounded=1;whiteSpace=wrap;html=1;" value="Access &quot;my contacts&quot; page" vertex="1">
+          <mxGeometry height="70" width="120" x="80" y="364.5" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-42" parent="38mydbl2jf28mPlL-PYl-32" style="rounded=1;whiteSpace=wrap;html=1;" value="Access a recipe creation page" vertex="1">
+          <mxGeometry height="54.5" width="120" x="80" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-53" edge="1" parent="1" source="38mydbl2jf28mPlL-PYl-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="38mydbl2jf28mPlL-PYl-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="295" />
+              <mxPoint x="440" y="60" />
+              <mxPoint x="1380" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Access a public recipe page" vertex="1">
+          <mxGeometry height="54.5" width="120" x="280" y="267.75" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Access contact catalogue of recipes" vertex="1">
+          <mxGeometry height="70" width="120" x="1010" y="422.25" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Share a recipe with a contact" vertex="1">
+          <mxGeometry height="70" width="120" x="1010" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-47" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="Recipe page" vertex="1">
+          <mxGeometry height="540" width="280" x="1240" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-48" parent="38mydbl2jf28mPlL-PYl-47" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;See the details of the recipe&lt;/div&gt;" vertex="1">
+          <mxGeometry height="69" width="120" x="80" y="41" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-49" parent="38mydbl2jf28mPlL-PYl-47" style="rounded=1;whiteSpace=wrap;html=1;" value="Start a step-by-step vocal recipe lecture" vertex="1">
+          <mxGeometry height="54.5" width="120" x="80" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-50" parent="38mydbl2jf28mPlL-PYl-47" style="rounded=1;whiteSpace=wrap;html=1;" value="Add the recipe to the individual catalogue if not yet" vertex="1">
+          <mxGeometry height="70" width="120" x="80" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Add personal note to the recipe" vertex="1">
+          <mxGeometry height="70" width="120" x="1210" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-52" edge="1" parent="1" source="38mydbl2jf28mPlL-PYl-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="38mydbl2jf28mPlL-PYl-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-55" edge="1" parent="1" source="38mydbl2jf28mPlL-PYl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#26a269, #ededed);strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=1;" target="38mydbl2jf28mPlL-PYl-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="670" />
+              <mxPoint x="540" y="1000" />
+              <mxPoint x="770" y="1000" />
+              <mxPoint x="770" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-56" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="contact catalogue page" vertex="1">
+          <mxGeometry height="540" width="280" x="930" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-60" edge="1" parent="1" source="38mydbl2jf28mPlL-PYl-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;edgeStyle=orthogonalEdgeStyle;curved=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="1015" />
+              <mxPoint x="580" y="1040" />
+              <mxPoint x="740" y="1040" />
+              <mxPoint x="740" y="940" />
+            </Array>
+            <mxPoint x="820" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;div&gt;Visualization&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="20" y="-150" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Redirection" vertex="1">
+          <mxGeometry height="60" width="130" x="20" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Action" vertex="1">
+          <mxGeometry height="60" width="130" x="20" y="-220" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-66" edge="1" parent="1" source="38mydbl2jf28mPlL-PYl-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=5;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" target="38mydbl2jf28mPlL-PYl-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="380" />
+              <mxPoint x="800" y="100" />
+              <mxPoint x="960" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Alternative view" vertex="1">
+          <mxGeometry height="60" width="130" x="20" y="-290" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#a51d2d, #ffa3a3);strokeWidth=3;" value="Limited to company representant connected" vertex="1">
+          <mxGeometry height="60" width="130" x="200" y="-220" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#1a5fb4, #ffa3a3);strokeWidth=3;" value="Limited to restaurant representant connected" vertex="1">
+          <mxGeometry height="60" width="130" x="200" y="-150" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#26a269, #ffa3a3);strokeWidth=3;" value="Limited to connected" vertex="1">
+          <mxGeometry height="60" width="130" x="200" y="-290" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=light-dark(#26a269, #959595);strokeWidth=3;" value="&lt;div&gt;See random recipes of a contact&amp;nbsp; catalogue for each favorite contact&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=light-dark(#a51d2d, #5c79a3);strokeWidth=3;" value="Access company catalogue of recipes" vertex="1">
+          <mxGeometry height="54.5" width="120" x="210" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=light-dark(#1a5fb4, #5c79a3);strokeWidth=3;" value="Access restaurant catalogue of recipes" vertex="1">
+          <mxGeometry height="54.5" width="120" x="350" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=light-dark(#26a269, #5c79a3);strokeWidth=3;" value="Access contact catalogue of recipes" vertex="1">
+          <mxGeometry height="70" width="120" x="280" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-80" edge="1" parent="1" source="38mydbl2jf28mPlL-PYl-79" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=5;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" target="38mydbl2jf28mPlL-PYl-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="260" />
+              <mxPoint x="80" y="10" />
+              <mxPoint x="340" y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-79" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=light-dark(#000000, #ededed);strokeWidth=3;" value="User" vertex="1">
+          <mxGeometry height="60" width="30" x="20" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-81" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;startSize=30;" value="contact catalogue page" vertex="1">
+          <mxGeometry height="540" width="280" x="930" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="38mydbl2jf28mPlL-PYl-82" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="contact catalogue page" vertex="1">
+          <mxGeometry height="540" width="280" x="820" y="1830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
