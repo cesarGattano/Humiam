@@ -38,8 +38,11 @@ impliquées, des métadonnées, des accès, des stockages et des traitements app
 
 ### Critères d'un bon sujet
 
-* Repose sur un contexte métier bien défini où l'ensemble exhaustif des acteurs sont impliqués
+* Repose sur un contexte professionnel bien défini où l'ensemble exhaustif des acteurs sont impliqués
 
+### Comment choisir mon sujet
+
+* Le sujet doit reposer sur un contexte professionnel clairement exposé avec un objectif de service ou de produits désignés. Il doit répondre à un ou plusieurs besoins exprimés.
 
 ---
 
@@ -85,8 +88,7 @@ La mise en situation a pour but de confronter le candidat à un besoin data renc
 #### Contraintes d'évaluation C1
 - La note de synthèse rend compte du questionnement et de l’analyse
 du besoin, du périmètre fonctionnel du projet, des moyens
-disponibles, de la faisabilité et de la gouvernance de la donnée liée au
-projet.
+disponibles, de la faisabilité et de la gouvernance de la donnée liée au projet.
 - Les objectifs du projet sont rédigés selon la méthode SMART*
 - Le cadrage projet reprend et complète la note de synthèse :
 hypothèses et préconisations macro de solutions techniques,
@@ -177,7 +179,6 @@ thématique de veille choisie.
 - Les sources et flux identifiés répondent aux critères de fiabilité :
   - L’auteur de la page est identifié
   - Des informations sur l’auteur sont disponibles et confirment ses compétences, sa notoriété et l'absence d'intérêts personnels
-  - l'analyse du contenu est valable (date de publication)
   - l’analyse du contenu est valable (date de publication récente, sources de l'information indiquées, niveau de langue correct), 
   - la source (site) ou le document est structuré 
   - les sources (sites) ou documents respectant les normes d'accessibilités sont privilégiés.
@@ -220,6 +221,8 @@ délais, moyens mobilisables.
 5. conclusions : analyse RICE*
 
 ### Critères d'un bon sujet
+
+* Repose sur un contexte métier bien défini où l'ensemble exhaustif des acteurs sont impliqués et où les besoins en données ont été exprimés clairement à travers les grilles d'entretien
 
 ### Comment choisir mon sujet
 
