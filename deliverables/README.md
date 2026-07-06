@@ -29,25 +29,25 @@ Chaque livrable est associé à une évaluation. Il y a au total 7 évaluations 
 
 ### Bloc 1: Piloter la conduite d’un projet data
 
-Voir [document](BLOC1.md) dédié
+Voir [document](bloc1/BLOC1.md) dédié
 
 ---
 
 ### Bloc 2: Réaliser la collecte, le stockage et la mise à disposition des données d’un projet data
 
-Voir [document](BLOC2.md) dédié
+Voir [document](bloc2/BLOC2.md) dédié
 
 ---
 
 ### Bloc 3: Élaborer et maintenir un entrepôt de données (data warehouse)
 
-Voir [document](BLOC3.md) dédié
+Voir [document](bloc3/BLOC3.md) dédié
 
 ---
 
 ### Bloc 4: Encadrer la collecte massive et la mise à disposition des données issues de l’activité de l’organisation avec un data lake
 
-Voir [document](BLOC4.md) dédié
+Voir [document](bloc4/BLOC4.md) dédié
 
 ---
 
