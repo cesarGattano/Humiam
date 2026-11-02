@@ -1,13 +1,13 @@
 # Structure de l'évaluation pour la certification
 
 ## Documents de référence
-* **Parcours formation:** https://drive.google.com/drive/folders/1wLOgogl8KnV31yrekCRxi955OqCFDLpx
-* **Règlement spécifique certification:** https://drive.google.com/drive/folders/1wLOgogl8KnV31yrekCRxi955OqCFDLpx
-* **Résumé certification:** https://drive.google.com/drive/folders/1wLOgogl8KnV31yrekCRxi955OqCFDLpx
-* **Schéma certification & compétences:** https://drive.google.com/drive/folders/1wLOgogl8KnV31yrekCRxi955OqCFDLpx
+* **Parcours formation:** [DE_parcours_formation.pdf](../official/DE_parcours_formation.pdf)
+* **Règlement spécifique certification:** [DE_reglement_specifique_certification.pdf](../official/DE_reglement_specifique_certification.pdf)
+* **Résumé certification:** [DE_resume_certification.pdf](../official/DE_resume_certification.pdf)
+* **Schéma certification & compétences:** [DE_schema_certification_competences_epreuves.pdf](../official/DE_schema_certification_competences_epreuves.pdf)
 
 ## Résumé d'un projet data
-voir [Schéma certification & compétences](https://drive.google.com/drive/folders/1wLOgogl8KnV31yrekCRxi955OqCFDLpx)
+voir [Schéma certification & compétences](../official/DE_schema_certification_competences_epreuves.pdf)
 
 | Bloc 1                   | Bloc 2                  | Bloc 3           | Bloc 4              |
 | ------------------------ | ----------------------- | ---------------- | ------------------- |
