@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="31yCuJCTIVdBEGDA4FWF">
-    <mxGraphModel dx="3235" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4506" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,190 +65,181 @@
           <mxGeometry height="30" width="320" y="90" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-136" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=60;" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;Les équipes et rôle chez Humiam&lt;/font&gt;" vertex="1">
-          <mxGeometry height="1510" width="2850" x="-1620" y="40" as="geometry" />
+          <mxGeometry height="1480" width="2850" x="-1620" y="40" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-1" parent="pOK_keFI0vPYnzQIMc5c-136" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;gradientColor=#FFE599;" value="Équipes techniques" vertex="1">
-          <mxGeometry height="1400" width="1360" x="500" y="80" as="geometry" />
+          <mxGeometry height="1360" width="1360" x="500" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-77" parent="pOK_keFI0vPYnzQIMc5c-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;gradientColor=inherit;" value="Équipe data" vertex="1">
-          <mxGeometry height="880" width="400" x="40" y="40" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-77" parent="pOK_keFI0vPYnzQIMc5c-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;gradientColor=inherit;" value="Équipe data (6)" vertex="1">
+          <mxGeometry height="640" width="400" x="40" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-55" parent="pOK_keFI0vPYnzQIMc5c-77" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;gradientColor=#FFE100;" value="Data architect" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-55" parent="pOK_keFI0vPYnzQIMc5c-77" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;gradientColor=#FFE100;" value="Head of data &amp;amp; Data architect: 1" vertex="1">
           <mxGeometry height="80" width="320" x="40" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-56" parent="pOK_keFI0vPYnzQIMc5c-55" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" value="Définit l&#39;architecture globale de gestion des données à grande échelle" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-56" parent="pOK_keFI0vPYnzQIMc5c-55" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" value="Définit l&#39;architecture globale de gestion des données et les règles de gouvernance et de conformité des données" vertex="1">
           <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-51" parent="pOK_keFI0vPYnzQIMc5c-77" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="Data engineer" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-51" parent="pOK_keFI0vPYnzQIMc5c-77" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="Data engineer: 2" vertex="1">
           <mxGeometry height="80" width="320" x="40" y="160" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-52" parent="pOK_keFI0vPYnzQIMc5c-51" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="&lt;div&gt;Conçoit et maintient les pipelines de collecte, stockage et transformation des données.&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-61" parent="pOK_keFI0vPYnzQIMc5c-77" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="Analytics engineer" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-61" parent="pOK_keFI0vPYnzQIMc5c-77" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="Analytics engineer: 1" vertex="1">
           <mxGeometry height="80" width="320" x="40" y="280" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-62" parent="pOK_keFI0vPYnzQIMc5c-61" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Structure les données transformées pour faciliter l&#39;analyse métier" vertex="1">
           <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-63" parent="pOK_keFI0vPYnzQIMc5c-77" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="Data steward" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-63" parent="pOK_keFI0vPYnzQIMc5c-77" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="Data steward: 1" vertex="1">
           <mxGeometry height="80" width="320" x="40" y="400" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-64" parent="pOK_keFI0vPYnzQIMc5c-63" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Garantie la qualité et la cohérence des données" vertex="1">
           <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-65" parent="pOK_keFI0vPYnzQIMc5c-77" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="Data Governance Manager" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-59" parent="pOK_keFI0vPYnzQIMc5c-77" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="Data analyst: 1" vertex="1">
           <mxGeometry height="80" width="320" x="40" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-66" parent="pOK_keFI0vPYnzQIMc5c-65" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Définit les règles de gouvernance et de conformité des données" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-60" parent="pOK_keFI0vPYnzQIMc5c-59" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Analyse les données afin d&#39;extraire des indicateurs et tableaux de bord" vertex="1">
           <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-59" parent="pOK_keFI0vPYnzQIMc5c-77" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="Data analyst" vertex="1">
-          <mxGeometry height="80" width="320" x="40" y="640" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-79" parent="pOK_keFI0vPYnzQIMc5c-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;gradientColor=inherit;" value="Équipe IA (3)" vertex="1">
+          <mxGeometry height="480" width="400" x="480" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-60" parent="pOK_keFI0vPYnzQIMc5c-59" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Analyse les données afin d&#39;extraire des indicateurs" vertex="1">
-          <mxGeometry height="50" width="320" y="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-57" parent="pOK_keFI0vPYnzQIMc5c-77" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="Data scientist" vertex="1">
-          <mxGeometry height="80" width="320" x="40" y="760" as="geometry" />
-        </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-58" parent="pOK_keFI0vPYnzQIMc5c-57" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Développe le système de recommandations à partir des données utilisateurs" vertex="1">
-          <mxGeometry height="50" width="320" y="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-79" parent="pOK_keFI0vPYnzQIMc5c-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;gradientColor=inherit;" value="Équipe IA" vertex="1">
-          <mxGeometry height="560" width="400" x="480" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-68" parent="pOK_keFI0vPYnzQIMc5c-79" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="AI engineer / MLOps engineer" vertex="1">
-          <mxGeometry height="130" width="320" x="40" y="40" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-68" parent="pOK_keFI0vPYnzQIMc5c-79" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=60;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="AI engineer &amp;amp;&lt;br&gt;ML engineer &amp;amp;&lt;br&gt;&amp;nbsp;MLOps engineer &amp;amp;&lt;br&gt;&lt;div&gt;Computer Vision engineer: 1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="320" x="40" y="40" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-72" parent="pOK_keFI0vPYnzQIMc5c-68" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Développe les fonctionnalités d&#39;IA intégrées à l&#39;application" vertex="1">
-          <mxGeometry height="50" width="320" y="30" as="geometry" />
+          <mxGeometry height="50" width="320" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-69" parent="pOK_keFI0vPYnzQIMc5c-68" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Automatise le déploiement et la supervision des modèles IA" vertex="1">
-          <mxGeometry height="50" width="320" y="80" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-69" parent="pOK_keFI0vPYnzQIMc5c-68" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Déploie et supervise les modèles d&#39;IA, y compris l&#39;analyse des photos et vidéos" vertex="1">
+          <mxGeometry height="50" width="320" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-70" parent="pOK_keFI0vPYnzQIMc5c-79" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="Prompt engineer" vertex="1">
-          <mxGeometry height="80" width="320" x="40" y="200" as="geometry" />
-        </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-71" parent="pOK_keFI0vPYnzQIMc5c-70" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Expert en analyse textuel (description de recettes)" vertex="1">
-          <mxGeometry height="50" width="320" y="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-75" parent="pOK_keFI0vPYnzQIMc5c-79" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="NLP engineer" vertex="1">
-          <mxGeometry height="80" width="320" x="40" y="320" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-75" parent="pOK_keFI0vPYnzQIMc5c-79" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="NLP engineer: 1" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="240" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-76" parent="pOK_keFI0vPYnzQIMc5c-75" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Expert en analyse textuel (description de recettes)" vertex="1">
           <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-73" parent="pOK_keFI0vPYnzQIMc5c-79" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="Computer Vision engineer" vertex="1">
-          <mxGeometry height="80" width="320" x="40" y="440" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-57" parent="pOK_keFI0vPYnzQIMc5c-79" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="Data scientist: 1" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-74" parent="pOK_keFI0vPYnzQIMc5c-73" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Expert en analyse de photos et vidéos (évaluation de qualité)" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-58" parent="pOK_keFI0vPYnzQIMc5c-57" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Développe le système de recommandations à partir des données utilisateurs" vertex="1">
           <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-114" parent="pOK_keFI0vPYnzQIMc5c-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;gradientColor=inherit;" value="Équipe Infra &amp;amp; cloud" vertex="1">
-          <mxGeometry height="560" width="400" x="920" y="40" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-114" parent="pOK_keFI0vPYnzQIMc5c-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;gradientColor=inherit;" value="Équipe Infra &amp;amp; cloud (4)" vertex="1">
+          <mxGeometry height="520" width="400" x="920" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-115" parent="pOK_keFI0vPYnzQIMc5c-114" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="Cloud engineer" vertex="1">
-          <mxGeometry height="80" width="320" x="40" y="40" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-115" parent="pOK_keFI0vPYnzQIMc5c-114" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="Cloud engineer &amp;amp;&lt;br&gt;DevOps engineer &amp;amp;&lt;br&gt;FinOps engineer: 2" vertex="1">
+          <mxGeometry height="200" width="320" x="40" y="40" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-116" parent="pOK_keFI0vPYnzQIMc5c-115" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Déploie les infrastructures cloud nécessaires à la plateforme" vertex="1">
-          <mxGeometry height="50" width="320" y="30" as="geometry" />
+          <mxGeometry height="50" width="320" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-118" parent="pOK_keFI0vPYnzQIMc5c-114" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="DevOps engineer" vertex="1">
-          <mxGeometry height="80" width="320" x="40" y="160" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-119" parent="pOK_keFI0vPYnzQIMc5c-115" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Automatise les déploiements et l&#39;intégration continue" vertex="1">
+          <mxGeometry height="50" width="320" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-119" parent="pOK_keFI0vPYnzQIMc5c-118" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Automatise les déploiements et l&#39;intégration continue" vertex="1">
-          <mxGeometry height="50" width="320" y="30" as="geometry" />
+        <mxCell id="sEErrBYLiDai_qN1Nnve-15" parent="pOK_keFI0vPYnzQIMc5c-115" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Suit les coûts (FinOps)" vertex="1">
+          <mxGeometry height="50" width="320" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-122" parent="pOK_keFI0vPYnzQIMc5c-114" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="FinOps Engineer" vertex="1">
-          <mxGeometry height="80" width="320" x="40" y="400" as="geometry" />
-        </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-123" parent="pOK_keFI0vPYnzQIMc5c-122" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Optimise les coûts liés aux infrastructures cloud" vertex="1">
-          <mxGeometry height="50" width="320" y="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-124" parent="pOK_keFI0vPYnzQIMc5c-114" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="Site Reliability Engineer (SRE)" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-124" parent="pOK_keFI0vPYnzQIMc5c-114" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="Site Reliability Engineer (SRE): 1" vertex="1">
           <mxGeometry height="80" width="320" x="40" y="280" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-125" parent="pOK_keFI0vPYnzQIMc5c-124" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Assure la disponibilité et la résilience des services" vertex="1">
           <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-126" parent="pOK_keFI0vPYnzQIMc5c-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;gradientColor=inherit;" value="Équipe Pilotage" vertex="1">
-          <mxGeometry height="400" width="400" x="920" y="640" as="geometry" />
+        <mxCell id="sEErrBYLiDai_qN1Nnve-16" parent="pOK_keFI0vPYnzQIMc5c-114" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;gradientColor=#FFE100;" value="Cybersecurity engineer: 1" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-127" parent="pOK_keFI0vPYnzQIMc5c-126" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="Product owner" vertex="1">
-          <mxGeometry height="80" width="320" x="40" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-128" parent="pOK_keFI0vPYnzQIMc5c-127" style="text;strokeColor=none;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Définit les fonctionnalités à développer selon les besoins utlisateurs" vertex="1">
+        <mxCell id="sEErrBYLiDai_qN1Nnve-17" parent="sEErrBYLiDai_qN1Nnve-16" style="text;strokeColor=#B09500;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Sécurise la plateforme et gère les accès" vertex="1">
           <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-129" parent="pOK_keFI0vPYnzQIMc5c-126" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="Product manager" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-126" parent="pOK_keFI0vPYnzQIMc5c-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;gradientColor=inherit;" value="Équipe Pilotage (4)" vertex="1">
+          <mxGeometry height="520" width="400" x="920" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-127" parent="pOK_keFI0vPYnzQIMc5c-126" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="Product owner: 1" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-128" parent="pOK_keFI0vPYnzQIMc5c-127" style="text;strokeColor=none;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Priorise les fonctionnalités à développer selon les besoins utilisateurs" vertex="1">
+          <mxGeometry height="50" width="320" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-129" parent="pOK_keFI0vPYnzQIMc5c-126" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="Product manager: 1" vertex="1">
           <mxGeometry height="80" width="320" x="40" y="160" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-130" parent="pOK_keFI0vPYnzQIMc5c-129" style="text;strokeColor=none;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Porte la vision stratégique du produit" vertex="1">
           <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-133" parent="pOK_keFI0vPYnzQIMc5c-126" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="Business analyst" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-133" parent="pOK_keFI0vPYnzQIMc5c-126" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="Business analyst: 1" vertex="1">
           <mxGeometry height="80" width="320" x="40" y="280" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-134" parent="pOK_keFI0vPYnzQIMc5c-133" style="text;strokeColor=none;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Traduit les besoins métiers en exigences fonctionnelles" vertex="1">
           <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-94" parent="pOK_keFI0vPYnzQIMc5c-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;gradientColor=inherit;" value="Équipe Dev" vertex="1">
-          <mxGeometry height="560" width="400" x="480" y="640" as="geometry" />
+        <mxCell id="sEErrBYLiDai_qN1Nnve-7" parent="pOK_keFI0vPYnzQIMc5c-126" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="UX/UI designer: 1" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-95" parent="pOK_keFI0vPYnzQIMc5c-94" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="Dev Front-End / Mobile" vertex="1">
-          <mxGeometry height="130" width="320" x="40" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-96" parent="pOK_keFI0vPYnzQIMc5c-95" style="text;strokeColor=none;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Développe l&#39;interface utilisateur web" vertex="1">
+        <mxCell id="sEErrBYLiDai_qN1Nnve-8" parent="sEErrBYLiDai_qN1Nnve-7" style="text;strokeColor=none;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Conçoit les interfaces, garant de leur accessibilité" vertex="1">
           <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-97" parent="pOK_keFI0vPYnzQIMc5c-95" style="text;strokeColor=none;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Développe les applications Android et iOS" vertex="1">
-          <mxGeometry height="50" width="320" y="80" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-94" parent="pOK_keFI0vPYnzQIMc5c-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;gradientColor=inherit;" value="Équipe Dev (10)" vertex="1">
+          <mxGeometry height="760" width="400" x="480" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-98" parent="pOK_keFI0vPYnzQIMc5c-94" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="Dev Back-End" vertex="1">
-          <mxGeometry height="80" width="320" x="40" y="200" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-95" parent="pOK_keFI0vPYnzQIMc5c-94" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="&lt;div&gt;Dev mobile: 2&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-97" parent="pOK_keFI0vPYnzQIMc5c-95" style="text;strokeColor=none;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Développe les applications Android et iOS" vertex="1">
+          <mxGeometry height="50" width="320" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-98" parent="pOK_keFI0vPYnzQIMc5c-94" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="Dev Back-End: 3" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="160" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-99" parent="pOK_keFI0vPYnzQIMc5c-98" style="text;strokeColor=none;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Développe les API et la logique métier" vertex="1">
           <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-100" parent="pOK_keFI0vPYnzQIMc5c-94" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="Dev Full Stack" vertex="1">
-          <mxGeometry height="80" width="320" x="40" y="320" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-100" parent="pOK_keFI0vPYnzQIMc5c-94" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="Dev Full Stack: 1" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="520" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-101" parent="pOK_keFI0vPYnzQIMc5c-100" style="text;strokeColor=none;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Intervient sur l&#39;ensemble de la chaine applicative" vertex="1">
           <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-102" parent="pOK_keFI0vPYnzQIMc5c-94" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="Software Architect" vertex="1">
-          <mxGeometry height="80" width="320" x="40" y="440" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-102" parent="pOK_keFI0vPYnzQIMc5c-94" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="QA engineer: 1" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-103" parent="pOK_keFI0vPYnzQIMc5c-102" style="text;strokeColor=none;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Définit l&#39;architecture logiciel globale de la plateforme" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-103" parent="pOK_keFI0vPYnzQIMc5c-102" style="text;strokeColor=none;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Teste et garantit la qualité des livraisons" vertex="1">
           <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-104" parent="pOK_keFI0vPYnzQIMc5c-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;gradientColor=inherit;" value="Équipe Base de données" vertex="1">
-          <mxGeometry height="400" width="400" x="40" y="960" as="geometry" />
+        <mxCell id="sEErrBYLiDai_qN1Nnve-9" parent="pOK_keFI0vPYnzQIMc5c-94" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="Lead dev &amp;amp; Software architect: 1" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-105" parent="pOK_keFI0vPYnzQIMc5c-104" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="Administrateur base de données" vertex="1">
+        <mxCell id="sEErrBYLiDai_qN1Nnve-10" parent="sEErrBYLiDai_qN1Nnve-9" style="text;strokeColor=none;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Définit l&#39;architecture logicielle de la plateforme" vertex="1">
+          <mxGeometry height="50" width="320" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sEErrBYLiDai_qN1Nnve-12" parent="pOK_keFI0vPYnzQIMc5c-94" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="&lt;div&gt;Dev Front-End web: 2&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="279" as="geometry" />
+        </mxCell>
+        <mxCell id="sEErrBYLiDai_qN1Nnve-13" parent="sEErrBYLiDai_qN1Nnve-12" style="text;strokeColor=none;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Développe l&#39;interface utilisateur web" vertex="1">
+          <mxGeometry height="50" width="320" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-104" parent="pOK_keFI0vPYnzQIMc5c-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;gradientColor=inherit;" value="Équipe Base de données (2)" vertex="1">
+          <mxGeometry height="280" width="400" x="40" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-105" parent="pOK_keFI0vPYnzQIMc5c-104" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="Administrateur de base de données: 1" vertex="1">
           <mxGeometry height="80" width="320" x="40" y="40" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-106" parent="pOK_keFI0vPYnzQIMc5c-105" style="text;strokeColor=none;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Administre les base de données et garantit leurs performances" vertex="1">
           <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-108" parent="pOK_keFI0vPYnzQIMc5c-104" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="Database architect" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-108" parent="pOK_keFI0vPYnzQIMc5c-104" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="Database engineer: 1" vertex="1">
           <mxGeometry height="80" width="320" x="40" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-109" parent="pOK_keFI0vPYnzQIMc5c-108" style="text;strokeColor=none;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Conçoit les modèles de données et les stratégies de stockage" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-109" parent="pOK_keFI0vPYnzQIMc5c-108" style="text;strokeColor=none;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Conçoit les modèles de données et les stratégies de stockage, y compris NoSQL" vertex="1">
           <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-110" parent="pOK_keFI0vPYnzQIMc5c-104" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=#e3c800;gradientColor=#FFE100;" value="NoSQL engineer" vertex="1">
-          <mxGeometry height="80" width="320" x="40" y="280" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-2" parent="pOK_keFI0vPYnzQIMc5c-136" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Équipe métier (14)" vertex="1">
+          <mxGeometry height="880" width="400" x="1940" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-111" parent="pOK_keFI0vPYnzQIMc5c-110" style="text;strokeColor=none;fillColor=#FFE100;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontFamily=Helvetica;fontSize=12;" value="Optimise les bases documentaires, graphes ou colonnes adaptées aux données massives" vertex="1">
-          <mxGeometry height="50" width="320" y="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-2" parent="pOK_keFI0vPYnzQIMc5c-136" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Équipe métier" vertex="1">
-          <mxGeometry height="800" width="400" x="1940" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-13" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="Chef cuisinier / créateur de contenu (rémunéré)" vertex="1">
-          <mxGeometry height="120" width="320" x="40" y="40" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-13" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="Chef cuisinier &amp;amp; Créateur de contenu: 4" vertex="1">
+          <mxGeometry height="120" width="320" x="40" y="160" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-14" parent="pOK_keFI0vPYnzQIMc5c-13" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;gradientColor=none;" value="Crée des recettes de qualité (photos, vidéos, tutoriel)" vertex="1">
           <mxGeometry height="30" width="320" y="30" as="geometry" />
@@ -259,62 +250,92 @@
         <mxCell id="pOK_keFI0vPYnzQIMc5c-16" parent="pOK_keFI0vPYnzQIMc5c-13" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Gère un grand nombre de catalogues de recettes" vertex="1">
           <mxGeometry height="30" width="320" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-17" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="Modérateur" vertex="1">
-          <mxGeometry height="60" width="320" x="40" y="320" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-17" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="Modérateur: 3" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="560" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-18" parent="pOK_keFI0vPYnzQIMc5c-17" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Assure la qualité et la légalité des données générées" vertex="1">
-          <mxGeometry height="30" width="320" y="30" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-18" parent="pOK_keFI0vPYnzQIMc5c-17" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Assure la qualité et la légalité des contenus publiés" vertex="1">
+          <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-21" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="Community manager" vertex="1">
-          <mxGeometry height="160" width="320" x="40" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-24" parent="pOK_keFI0vPYnzQIMc5c-21" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Récompense les actions utilisateurs" vertex="1">
-          <mxGeometry height="30" width="320" y="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-42" parent="pOK_keFI0vPYnzQIMc5c-21" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="&lt;div&gt;Analyse les tendances culinaires et les préférences des utilisateurs&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="320" y="60" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-21" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="Community manager: 2" vertex="1">
+          <mxGeometry height="160" width="320" x="40" y="680" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-22" parent="pOK_keFI0vPYnzQIMc5c-21" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="&lt;div&gt;Anime la communauté (au fil des saisons)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="320" y="100" as="geometry" />
+          <mxGeometry height="30" width="320" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-24" parent="pOK_keFI0vPYnzQIMc5c-21" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Récompense les actions utilisateurs" vertex="1">
+          <mxGeometry height="30" width="320" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-42" parent="pOK_keFI0vPYnzQIMc5c-21" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="&lt;div&gt;Analyse les tendances culinaires et les préférences des utilisateurs&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="320" y="90" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-23" parent="pOK_keFI0vPYnzQIMc5c-21" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Produit des interactions sociales" vertex="1">
           <mxGeometry height="30" width="320" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-25" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="Photographe / Vidéaste" vertex="1">
-          <mxGeometry height="60" width="320" x="40" y="200" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-25" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="Photographe / Vidéaste: 2" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-26" parent="pOK_keFI0vPYnzQIMc5c-25" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Crée les médias enrichissant les recettes" vertex="1">
-          <mxGeometry height="30" width="320" y="30" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-26" parent="pOK_keFI0vPYnzQIMc5c-25" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Support pour la création des médias enrichissant les recettes" vertex="1">
+          <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-28" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="Nutritionniste" vertex="1">
-          <mxGeometry height="60" width="320" x="40" y="640" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-28" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="Nutritionniste: 2" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="440" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-29" parent="pOK_keFI0vPYnzQIMc5c-28" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Produit des données nutritionnelles exploitables" vertex="1">
-          <mxGeometry height="30" width="320" y="30" as="geometry" />
+          <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-43" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="Direction Générale" vertex="1">
-          <mxGeometry height="60" width="320" x="40" y="720" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-43" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="Responsable éditorial: 1" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-44" parent="pOK_keFI0vPYnzQIMc5c-43" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="S&#39;appuie sur les KPIs pour piloter l&#39;activité et la stratégie" vertex="1">
-          <mxGeometry height="30" width="320" y="30" as="geometry" />
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-44" parent="pOK_keFI0vPYnzQIMc5c-43" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Définit la ligne éditoriale et coordonne la production de contenus" vertex="1">
+          <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
         <mxCell id="c0rRs48yMQmNF4Hu_hEc-3" parent="pOK_keFI0vPYnzQIMc5c-136" style="swimlane;whiteSpace=wrap;html=1;fillColor=#660066;fontColor=#FFFFFF;strokeColor=#330066;gradientColor=#99FFFF;" value="Direction" vertex="1">
-          <mxGeometry height="800" width="400" x="20" y="80" as="geometry" />
+          <mxGeometry height="400" width="400" x="20" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sEErrBYLiDai_qN1Nnve-1" parent="c0rRs48yMQmNF4Hu_hEc-3" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;gradientColor=inherit;fillColor=inherit;strokeColor=inherit;" value="Directeur général" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sEErrBYLiDai_qN1Nnve-2" parent="sEErrBYLiDai_qN1Nnve-1" style="text;strokeColor=inherit;fillColor=#99FFFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" value="Pilote la stratégie et l&#39;activité à partir des KPIs" vertex="1">
+          <mxGeometry height="50" width="320" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sEErrBYLiDai_qN1Nnve-3" parent="c0rRs48yMQmNF4Hu_hEc-3" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=#000000;strokeColor=inherit;gradientColor=inherit;" value="Directeur technique (CTO)" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="sEErrBYLiDai_qN1Nnve-4" parent="sEErrBYLiDai_qN1Nnve-3" style="text;strokeColor=inherit;fillColor=#99FFFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" value="Encadre les équipes techniques et les choix technologiques" vertex="1">
+          <mxGeometry height="50" width="320" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sEErrBYLiDai_qN1Nnve-5" parent="c0rRs48yMQmNF4Hu_hEc-3" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=#000000;strokeColor=inherit;gradientColor=inherit;" value="Directeur des opérations (COO)" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="sEErrBYLiDai_qN1Nnve-6" parent="sEErrBYLiDai_qN1Nnve-5" style="text;strokeColor=inherit;fillColor=#99FFFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" value="Encadre les équipes métier et support" vertex="1">
+          <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
         <mxCell id="c0rRs48yMQmNF4Hu_hEc-21" parent="pOK_keFI0vPYnzQIMc5c-136" style="swimlane;whiteSpace=wrap;html=1;fillColor=#994C00;fontColor=#000000;strokeColor=#994C00;gradientColor=#FFB366;" value="Équipe support" vertex="1">
           <mxGeometry height="520" width="400" x="2420" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="c0rRs48yMQmNF4Hu_hEc-59" parent="c0rRs48yMQmNF4Hu_hEc-21" style="swimlane;whiteSpace=wrap;html=1;fillColor=#994C00;fontColor=#000000;strokeColor=#994C00;gradientColor=#FFB366;" value="Équipe Finance" vertex="1">
-          <mxGeometry height="90" width="343" x="27" y="40" as="geometry" />
+        <mxCell id="sEErrBYLiDai_qN1Nnve-21" parent="c0rRs48yMQmNF4Hu_hEc-21" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=#000000;strokeColor=inherit;gradientColor=inherit;" value="Responsable administratif &amp;amp;&lt;br&gt;Responsable financier: 1" vertex="1">
+          <mxGeometry height="80" width="320" x="38.5" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="c0rRs48yMQmNF4Hu_hEc-60" parent="c0rRs48yMQmNF4Hu_hEc-21" style="swimlane;whiteSpace=wrap;html=1;fillColor=#994C00;fontColor=#000000;strokeColor=#994C00;gradientColor=#FFB366;" value="Équipe RH" vertex="1">
-          <mxGeometry height="90" width="343" x="27" y="160" as="geometry" />
+        <mxCell id="sEErrBYLiDai_qN1Nnve-22" parent="sEErrBYLiDai_qN1Nnve-21" style="text;strokeColor=none;fillColor=#FFB366;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Gère la comptabilité, le budget et les paiements" vertex="1">
+          <mxGeometry height="40" width="320" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="c0rRs48yMQmNF4Hu_hEc-61" parent="c0rRs48yMQmNF4Hu_hEc-21" style="swimlane;whiteSpace=wrap;html=1;fillColor=#994C00;fontColor=#000000;strokeColor=#994C00;gradientColor=#FFB366;" value="Équipe Juridique" vertex="1">
-          <mxGeometry height="90" width="343" x="27" y="280" as="geometry" />
+        <mxCell id="sEErrBYLiDai_qN1Nnve-23" parent="c0rRs48yMQmNF4Hu_hEc-21" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=#000000;strokeColor=inherit;gradientColor=inherit;" value="Chargé RH: 1" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="c0rRs48yMQmNF4Hu_hEc-62" parent="c0rRs48yMQmNF4Hu_hEc-21" style="swimlane;whiteSpace=wrap;html=1;fillColor=#994C00;fontColor=#000000;strokeColor=#994C00;gradientColor=#FFB366;" value="Équipe Commercial" vertex="1">
-          <mxGeometry height="90" width="343" x="28.5" y="400" as="geometry" />
+        <mxCell id="sEErrBYLiDai_qN1Nnve-24" parent="sEErrBYLiDai_qN1Nnve-23" style="text;strokeColor=none;fillColor=#FFB366;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Gère le recrutement et l&#39;administration du personnel" vertex="1">
+          <mxGeometry height="50" width="320" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sEErrBYLiDai_qN1Nnve-25" parent="c0rRs48yMQmNF4Hu_hEc-21" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=#000000;strokeColor=inherit;gradientColor=inherit;" value="Juriste &amp;amp;&lt;br&gt;&lt;div&gt;DPO: 1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="sEErrBYLiDai_qN1Nnve-26" parent="sEErrBYLiDai_qN1Nnve-25" style="text;strokeColor=none;fillColor=#FFB366;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Veille à la conformité juridique et au RGPD" vertex="1">
+          <mxGeometry height="40" width="320" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sEErrBYLiDai_qN1Nnve-27" parent="c0rRs48yMQmNF4Hu_hEc-21" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=#000000;strokeColor=inherit;gradientColor=inherit;" value="Chargé de partenariats: 1" vertex="1">
+          <mxGeometry height="80" width="320" x="40" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="sEErrBYLiDai_qN1Nnve-28" parent="sEErrBYLiDai_qN1Nnve-27" style="text;strokeColor=none;fillColor=#FFB366;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Vend les offres publicitaires aux restaurateurs et aux marques" vertex="1">
+          <mxGeometry height="40" width="320" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
