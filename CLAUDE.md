@@ -56,6 +56,7 @@ Ce projet s'inscrit dans le cadre de la certification RNCP37638 "Experts en infr
   * `blocN/BLOCN.md` : description des évaluations du bloc (tâches, livrables, contraintes d'évaluation)
   * `blocN/competences.md` : intitulé des compétences du bloc
   * `blocN/evaluationN/` : travail en cours sur le livrable de l'évaluation N
+* [context/](context) : contexte d'entreprise fictif de Humiam, construit étape par étape ; chaque décision y est consignée (index dans `context/README.md`)
 * [diagrams/](diagrams) : diagrammes draw.io (source `.drawio` et export `.svg`), décrits dans `diagrams/README.md`
 * [logbook/](logbook) : journal de bord personnel de César
 
@@ -66,7 +67,8 @@ Ce projet s'inscrit dans le cadre de la certification RNCP37638 "Experts en infr
 ## Règles
 
 * **Ne jamais modifier le dossier [logbook/](logbook)** : il est réservé à César. Il peut être lu pour le contexte.
-* **Langue** : livrables et contenu des documents Markdown en français ; noms de fichiers, code, messages de commit et commentaires dans le code en anglais.
+* **Langue** : livrables et contenu des documents Markdown en français ; noms de fichiers, code, messages de commit et commentaires dans le code en anglais. Exception : toujours écrire « RGPD », jamais « GDPR », y compris dans les noms de fichiers.
+* **Veille RGPD** : dès qu'une donnée ou une fonctionnalité évoquée soulève un enjeu RGPD, l'ajouter comme avertissement dans [context/rgpd_watchlist.md](context/rgpd_watchlist.md), même si elle n'est pas exploitée dans le projet.
 * **Commits** : format gitmoji conventionnel, en anglais (ex. `docs: :memo: Add interview grid`).
 
 ## Exigences transverses du référentiel
