@@ -2,12 +2,29 @@
 
 ## Week 45  - 2026
 
-### 02 / 11 / 2026
+### 03 / 11 / 2026
 
-**Task** :
+**Task** : Création d'un contexte métier pour le projet Humiam
 
 **Action details**:
-* Follow Claude 101 and Claude code 101
+* Imaginer un business modèle
+* Imaginer une organisation avec des acteurs internes et externes
+* Imaginer des besoins data
+  
+**Encountered problem**: Cohérence du contexte entre la taille de l'entreprise et l'absence de plateforme existante actuellement
+
+**Solution found**:
+* Taille d'entreprise est un objectif et si le travail de création d'Humiam devait commencer, une seule personne (moi) serait impliqué.
+* Imaginer qu'on se positionne à l'existence d'un MVP fournit à des bêta-testeurs.
+  
+
+### 02 / 11 / 2026
+
+**Task** : Prendre en main Claude Code
+
+**Action details**:
+* Suivre Claude 101 et Claude code 101
+* Mise en place de [CLAUDE.md](CLAUDE.md)
 
 **Technical choice**:
 * Claude Code
