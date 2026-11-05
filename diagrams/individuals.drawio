@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="31yCuJCTIVdBEGDA4FWF">
-    <mxGraphModel dx="3793" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5845" dy="2346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,7 +178,7 @@
         <mxCell id="pOK_keFI0vPYnzQIMc5c-2" parent="pOK_keFI0vPYnzQIMc5c-136" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="Équipe métier (14)" vertex="1">
           <mxGeometry height="920" width="400" x="1550" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-13" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="Chef cuisinier: 4" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-13" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="[P] Chef cuisinier: 4" vertex="1">
           <mxGeometry height="120" width="320" x="40" y="160" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-14" parent="pOK_keFI0vPYnzQIMc5c-13" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;gradientColor=none;" value="Crée des recettes de qualité (photos, vidéos, tutoriels)" vertex="1">
@@ -190,13 +190,13 @@
         <mxCell id="pOK_keFI0vPYnzQIMc5c-16" parent="pOK_keFI0vPYnzQIMc5c-13" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Gère un grand nombre de catalogues de recettes" vertex="1">
           <mxGeometry height="30" width="320" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-17" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="Modérateur: 3" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-17" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="[P/E] Modérateur: 3" vertex="1">
           <mxGeometry height="80" width="320" x="40" y="600" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-18" parent="pOK_keFI0vPYnzQIMc5c-17" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Assure la qualité et la légalité des contenus publiés" vertex="1">
           <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-21" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="Community manager: 2" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-21" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="[P/E] Community manager: 2" vertex="1">
           <mxGeometry height="160" width="320" x="40" y="720" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-22" parent="pOK_keFI0vPYnzQIMc5c-21" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="&lt;div&gt;Anime la communauté (au fil des saisons)&lt;/div&gt;" vertex="1">
@@ -211,13 +211,13 @@
         <mxCell id="pOK_keFI0vPYnzQIMc5c-23" parent="pOK_keFI0vPYnzQIMc5c-21" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Produit des interactions sociales" vertex="1">
           <mxGeometry height="30" width="320" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-25" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="Photographe / Vidéaste: 2" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-25" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="[P] Photographe / Vidéaste: 2" vertex="1">
           <mxGeometry height="80" width="320" x="40" y="320" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-26" parent="pOK_keFI0vPYnzQIMc5c-25" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Support pour la création des médias enrichissant les recettes" vertex="1">
           <mxGeometry height="50" width="320" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-28" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="Nutritionniste: 2" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-28" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="[P/E] Nutritionniste: 2 (nouveaux arrivants)" vertex="1">
           <mxGeometry height="130" width="320" x="40" y="440" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-29" parent="pOK_keFI0vPYnzQIMc5c-28" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Définit l&#39;échelle du caractère sain" vertex="1">
@@ -226,7 +226,7 @@
         <mxCell id="zuJvcWf3WjG6xE-zNeT6-13" parent="pOK_keFI0vPYnzQIMc5c-28" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Apporte son expertise, en s&#39;appuyant sur les données ouvertes" vertex="1">
           <mxGeometry height="50" width="320" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="pOK_keFI0vPYnzQIMc5c-43" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="Responsable éditorial: 1" vertex="1">
+        <mxCell id="pOK_keFI0vPYnzQIMc5c-43" parent="pOK_keFI0vPYnzQIMc5c-2" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;gradientColor=#C95500;" value="[P/E] Responsable éditorial: 1" vertex="1">
           <mxGeometry height="80" width="320" x="40" y="40" as="geometry" />
         </mxCell>
         <mxCell id="pOK_keFI0vPYnzQIMc5c-44" parent="pOK_keFI0vPYnzQIMc5c-43" style="text;strokeColor=none;fillColor=#C95500;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Définit la ligne éditoriale et coordonne la production de contenus" vertex="1">
@@ -280,7 +280,7 @@
         <mxCell id="sEErrBYLiDai_qN1Nnve-26" parent="sEErrBYLiDai_qN1Nnve-25" style="text;strokeColor=none;fillColor=#FFB366;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Veille à la conformité juridique et au RGPD" vertex="1">
           <mxGeometry height="40" width="320" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="sEErrBYLiDai_qN1Nnve-27" parent="c0rRs48yMQmNF4Hu_hEc-21" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=#000000;strokeColor=inherit;gradientColor=inherit;" value="Chargé de partenariats: 1" vertex="1">
+        <mxCell id="sEErrBYLiDai_qN1Nnve-27" parent="c0rRs48yMQmNF4Hu_hEc-21" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=inherit;fontColor=#000000;strokeColor=inherit;gradientColor=inherit;" value="[P/E] Chargé de partenariats: 1 (nouvel arrivant)" vertex="1">
           <mxGeometry height="80" width="320" x="40" y="400" as="geometry" />
         </mxCell>
         <mxCell id="sEErrBYLiDai_qN1Nnve-28" parent="sEErrBYLiDai_qN1Nnve-27" style="text;strokeColor=none;fillColor=#FFB366;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=default;" value="Vend les offres publicitaires aux restaurateurs et aux marques" vertex="1">
