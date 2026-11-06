@@ -2,7 +2,7 @@
 
 > Notions générales sur l'entretien semi-directif : voir [notions.md](notions.md).
 
-## Guide d'entretien
+## Préambule du guide d'entretien
 
 ### En-tête
 
@@ -83,7 +83,7 @@
 
 #### Thèmes à aborder durant l'enquête
 
-Chaque entretien enchaîne le tronc commun et le module spécifique au rôle interrogé :
+Chaque entretien mêle un tronc commun avec un module spécifique au rôle interrogé :
 
 1. **[Tronc commun]** Rôle et activités
 2. **[Tronc commun]** Récit d'un cas concret par activité
@@ -97,6 +97,8 @@ Chaque entretien enchaîne le tronc commun et le module spécifique au rôle int
    * Responsable éditorial·e
 4. **[Tronc commun]** Irritants et bloquants de l'existant
 5. **[Tronc commun]** Attentes vis-à-vis de la nouvelle plateforme
+
+## Corps du Guide d'entretien
 
 ### Introduction de l'entretien
 
