@@ -70,6 +70,7 @@ Ce projet s'inscrit dans le cadre de la certification RNCP37638 "Experts en infr
 * **Langue** : livrables et contenu des documents Markdown en français ; noms de fichiers, code, messages de commit et commentaires dans le code en anglais. Exception : toujours écrire « RGPD », jamais « GDPR », y compris dans les noms de fichiers.
 * **Veille RGPD** : dès qu'une donnée ou une fonctionnalité évoquée soulève un enjeu RGPD, l'ajouter comme avertissement dans [context/rgpd_watchlist.md](context/rgpd_watchlist.md), même si elle n'est pas exploitée dans le projet.
 * **Commits** : format gitmoji conventionnel, en anglais (ex. `docs: :memo: Add interview grid`).
+* **Édition des fichiers** : toujours modifier les fichiers avec l'outil d'édition, par modifications ciblées, pour que César voie le diff dans VSCode. Jamais de script (Python, sed…) pour réécrire un fichier. Relire le fichier avant de le modifier : César peut l'avoir changé entre-temps.
 
 ## Exigences transverses du référentiel
 
