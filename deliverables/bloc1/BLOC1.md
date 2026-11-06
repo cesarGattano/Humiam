@@ -22,7 +22,7 @@ seront amenés à le faire).
 ### Évaluations
 
 * **Livrables:**  Grilles d'entretien
-* **Oral:** présentation indivuelle des grilles (5 minutes)
+* **Oral:** présentation individuelle des grilles (5 minutes)
 
 ### Contraintes
 
