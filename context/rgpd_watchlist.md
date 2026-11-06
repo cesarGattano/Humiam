@@ -18,6 +18,28 @@ Chaque point est un avertissement à traiter lors de la conception (registre des
 > [!WARNING]
 > **Sous-traitants** : l'hébergeur cloud, le prestataire de paiement et tout autre prestataire traitant des données personnelles doivent être encadrés par un contrat (article 28).
 
+## Recueil du besoin
+
+> [!WARNING]
+> **Notes d'entretien** : les réponses aux grilles d'entretien, rattachées au nom ou au rôle d'un salarié, sont des données personnelles. Les personnes interrogées doivent être informées en ouverture d'entretien (finalité, durée de conservation, destinataires, droit de refus) ; les comptes rendus diffusés gagnent à être pseudonymisés. En entretien de groupe, les propos de chacun sont entendus par ses collègues : la confidentialité ne peut être promise qu'à l'égard des personnes extérieures au groupe.
+
+> [!WARNING]
+> **Besoins d'adaptation des personnes interrogées** : recueillir les besoins d'adaptation d'un salarié pour un entretien (accessibilité de la salle, supports, sous-titrage) peut révéler une situation de handicap, donc une donnée de santé (article 9). La demande doit rester facultative et individuelle, jamais posée en groupe, et seule l'adaptation nécessaire est consignée, sans sa cause. L'information n'est pas conservée au-delà de l'organisation de l'entretien.
+
+> [!WARNING]
+> **Questionnaire aux bêta-testeurs** : un questionnaire envoyé par les community managers collecte des données personnelles (identité, habitudes culinaires, éventuellement des données de santé ou religieuses au travers des préférences alimentaires). L'outil de collecte est un sous-traitant, la finalité doit être annoncée et les questions limitées au strict nécessaire.
+
+## Plateforme existante
+
+> [!WARNING]
+> **Reprise des recettes communautaires** : aucun compte n'est repris, mais les recettes de la plateforme actuelle restent rattachées à leurs auteurs (pseudo, date de publication, éventuelles photos). Leur reprise éventuelle dans la nouvelle plateforme doit être compatible avec la finalité de la collecte initiale, ou faire l'objet d'une information des auteurs. Le sort du lien d'auteur doit être tranché (anonymisation ou maintien), en plus des questions de droit d'auteur sur les contenus.
+
+> [!WARNING]
+> **Bannières publicitaires de la plateforme actuelle** : les bannières reposent généralement sur des cookies et traceurs publicitaires, souvent déposés par des régies tierces. Ils exigent un consentement préalable, et les régies concernées doivent être identifiées (responsables conjoints ou sous-traitants).
+
+> [!WARNING]
+> **Fermeture de la plateforme actuelle** : à la fermeture, les comptes et données personnelles des internautes doivent être supprimés ou anonymisés selon une procédure définie, après information des personnes concernées.
+
 ## Hébergement et transferts
 
 > [!WARNING]
@@ -70,6 +92,9 @@ Chaque point est un avertissement à traiter lors de la conception (registre des
 
 > [!WARNING]
 > **Photos et vidéos** : elles peuvent contenir des métadonnées EXIF (géolocalisation, appareil) et montrer des visages ou des lieux privés. Le droit à l'image des personnes représentées, utilisateurs comme salariés, doit être respecté.
+
+> [!WARNING]
+> **Signalements et décisions de modération** : une décision de modération est rattachée à l'auteur du contenu, et un signalement à la personne qui l'a émis. Ce sont des données personnelles, au même titre que les sanctions éventuelles sur un compte (avertissement, suspension). L'identité de l'auteur d'un signalement ne doit pas être communiquée à la personne signalée, et la durée de conservation des contenus supprimés et de l'historique des décisions doit être définie, en conciliant preuve en cas de litige et minimisation.
 
 > [!WARNING]
 > **Suppression d'un compte et généalogie des recettes** : lorsqu'un auteur supprime son compte, le sort de ses recettes et des variantes créées à partir d'elles par d'autres utilisateurs doit être défini (anonymisation de l'auteur, maintien ou suppression des variantes).
