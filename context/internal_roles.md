@@ -2,6 +2,8 @@
 
 Rôles tenus par les 50 salariés de Humiam, répartis par équipe (voir [organization.md](organization.md)).
 
+Les rôles marqués d'un astérisque (\*) ont été **recrutés pour la nouvelle plateforme** : ils n'ont pas d'expérience de la plateforme actuelle (voir [data_need.md](data_need.md#contexte)).
+
 ## Direction (3)
 
 | Rôle | Effectif | Mission |
@@ -72,9 +74,9 @@ Rôles tenus par les 50 salariés de Humiam, répartis par équipe (voir [organi
 | Responsable éditorial·e | 1 | Définit la ligne éditoriale et coordonne la production de contenus |
 | Chef cuisinier·ère | 4 | Crée des recettes de qualité et fournit de l'information augmentée |
 | Photographe / vidéaste | 2 | Crée les médias qui enrichissent les recettes |
-| Nutritionniste | 2 | Définit l'échelle du caractère sain des recettes et apporte son expertise, en s'appuyant sur les données nutritionnelles ouvertes |
+| Nutritionniste\* | 2 | Définit l'échelle du caractère sain des recettes et apporte son expertise, en s'appuyant sur les données nutritionnelles ouvertes |
 | Modérateur·rice | 3 | Assure la qualité et la légalité des contenus publiés |
-| Community manager | 2 | Anime la communauté et récompense les actions des utilisateurs |
+| Community manager | 2 | Anime la communauté ; sur la nouvelle plateforme, récompensera les actions des utilisateurs (aucun système de récompense n'existe sur la plateforme actuelle) |
 
 ## Équipe support (4)
 
@@ -83,4 +85,4 @@ Rôles tenus par les 50 salariés de Humiam, répartis par équipe (voir [organi
 | Responsable administratif·ve et financier·ère | 1 | Gère la comptabilité, le budget et les paiements |
 | Chargé·e RH | 1 | Gère le recrutement et l'administration du personnel |
 | Juriste / DPO | 1 | Veille à la conformité juridique et au RGPD. Le cumul des deux fonctions doit préserver l'indépendance du DPO |
-| Chargé·e de partenariats | 1 | Vend les offres publicitaires aux restaurateurs et aux marques |
+| Chargé·e de partenariats\* | 1 | Vend les offres publicitaires aux restaurateurs et aux marques |

@@ -11,6 +11,7 @@ Ce dossier centralise les décisions prises pour construire le contexte d'entrep
 | [internal_roles.md](internal_roles.md) | Rôles internes par équipe | Décidé |
 | [external_actors.md](external_actors.md) | Acteurs externes à l'entreprise | Décidé |
 | [data_need.md](data_need.md) | Besoin data du projet | Décidé |
+| [data_producers.md](data_producers.md) | Rôles internes producteurs de données, modalités des entretiens | Décidé |
 | [rgpd_watchlist.md](rgpd_watchlist.md) | Points de vigilance RGPD sur les données évoquées | Alimenté au fil de l'eau |
 
 ## Démarche

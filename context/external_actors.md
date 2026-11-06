@@ -9,7 +9,9 @@ Acteurs extérieurs à l'entreprise qui interagissent avec le réseau social Hum
 | Visiteur             | Consulte les recettes publiques sans compte                                                                                                   |
 | Utilisateur standard | Crée, recherche et organise des recettes et des catalogues, réagit aux recettes, s'abonne à d'autres utilisateurs, reçoit des recommandations |
 | Créateur de contenu  | Utilisateur très actif qui produit des recettes de qualité (photos, vidéos, tutoriels) et enrichit les recettes existantes                    |
-| Bêta-testeur         | Utilisateur du panel qui accède au MVP dès son lancement ; premier producteur de données de la plateforme                                     |
+| Bêta-testeur         | Utilisateur du panel qui accède au MVP dès son lancement ; premier producteur de données de la nouvelle plateforme                            |
+
+Ces acteurs concernent la nouvelle plateforme. La **plateforme actuelle** (voir [data_need.md](data_need.md#contexte)) compte ses propres internautes : visiteurs qui consultent les recettes et contributeurs inscrits qui en publient. Leurs comptes ne sont pas repris dans la nouvelle plateforme.
 
 Tout utilisateur peut devenir **donateur** en versant des micro-paiements mensuels, volontaires et révocables. C'est un statut du compte, pas un rôle distinct (voir [business_model.md](business_model.md)). Ce statut permet de débloquer des privilèges (à définir), comme la possibilité de proposer et voter sur les idées de fonctionnalités à développer.
 
@@ -21,6 +23,8 @@ Tout utilisateur peut devenir **donateur** en versant des micro-paiements mensue
 | Représentant de marque | Publie des recettes utilisant les produits de sa marque, contre paiement ; fournit un lien vers son site web ; publie les données nutritionnelles de ses recettes, par transparence envers la communauté |
 
 Les annonceurs consultent des statistiques de performance de leurs recettes pour évaluer leur partenariat, y compris les **clics de redirection** vers leur site.
+
+La publicité par recettes sponsorisées étant une nouvelle activité (voir [business_model.md](business_model.md)), Humiam n'a encore **aucun partenariat** avec des restaurateurs ou des représentants de marque : les premiers sont à construire. La plateforme actuelle n'affiche que des bannières publicitaires classiques.
 
 ## Prestataires
 

@@ -3,9 +3,9 @@
 ## Taille
 
 * Humiam démarre avec son fondateur, qui porte toutes les casquettes, puis grandit progressivement.
-* L'organisation décrite ici est l'**organisation cible** : une PME d'environ **50 salariés**.
+* L'organisation décrite ici est une PME d'environ **50 salariés**.
 * Cette taille permet d'impliquer une diversité de profils tout en restant réaliste.
-* **Convention pour la certification** : le projet data se déroule au lancement du MVP, une fois l'organisation cible constituée. Les 50 salariés existent donc au moment des entretiens.
+* **Convention pour la certification** : le projet data se déroule au lancement du MVP de la nouvelle plateforme. Les 50 salariés existent donc au moment des entretiens, et exploitent la plateforme actuelle (voir [data_need.md](data_need.md#contexte)), à l'exception des rôles recrutés pour la nouvelle plateforme : les deux nutritionnistes et le chargé·e de partenariats (voir [internal_roles.md](internal_roles.md)).
 
 ## Répartition des effectifs
 

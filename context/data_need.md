@@ -7,9 +7,22 @@
 
 ## Contexte
 
-* La plateforme Humiam n'existe pas encore : il s'agit de commencer à la **créer** de façon modulaire.
-* Lors du premier lancement, une **version MVP** est mise à disposition d'un **panel de bêta-testeurs**, qui alimente les premières données par une pratique régulière.
-* Aucune donnée n'existe au départ : les données disponibles sont des **données libres** ou des **données extraites de sites web** (voir [external_actors.md](external_actors.md)).
+* Humiam exploite déjà une **plateforme actuelle** de recettes :
+  * collection de **recettes communautaires**, publiées par les internautes inscrits ;
+  * recettes consultables et trouvables par **recherche par mot-clé** uniquement ;
+  * aucune organisation possible des recettes par l'internaute (ni catalogue, ni espace personnel) ;
+  * aucun suivi des consultations, aucune personnalisation pour un abonné ;
+  * l'ensemble est devenu difficile à utiliser et **irritant** pour les internautes.
+* Le projet consiste à **créer une nouvelle plateforme**, indépendante de l'actuelle, de façon modulaire.
+* La nouvelle plateforme s'accompagne de **deux orientations stratégiques nouvelles** :
+  * **alimentation saine** : sur la plateforme actuelle, aucun objectif explicite ne visait à promouvoir des recettes saines ; les chefs cuisiniers le faisaient de façon implicite, dans leur pratique. Avec la nouvelle plateforme, l'entreprise fait de ce thème, en progression dans le monde de la cuisine, un axe explicite ;
+  * **publicité par recettes sponsorisées** : nouvelle activité commerciale que l'entreprise souhaite explorer, auprès des restaurateurs comme des représentants de marque (voir [business_model.md](business_model.md)).
+* Ces orientations justifient des **recrutements** : les deux nutritionnistes et le chargé·e de partenariats (voir [internal_roles.md](internal_roles.md)).
+* Une **version MVP** de la nouvelle plateforme est mise à disposition d'un **panel de bêta-testeurs**, qui alimente ses premières données par une pratique régulière. Une fois validée, elle **remplace** la plateforme actuelle, qui est **fermée à moyen terme**.
+* Les deux plateformes sont indépendantes : **aucun compte n'est repris** de la plateforme actuelle.
+* Les données disponibles au départ pour la nouvelle plateforme sont :
+  * les **recettes communautaires de la plateforme actuelle**, dont la reprise reste à trancher (voir [Paramètres laissés ouverts](#paramètres-laissés-ouverts)) ;
+  * des **données libres** ou des **données extraites de sites web** (voir [external_actors.md](external_actors.md)).
 * Dans le cadre de la certification, des **données artificielles** peuvent être générées pour alimenter les bases de données.
 * Périmètre géographique : **France** au lancement, ouverture à l'**Europe** ensuite, puis à l'**international**.
 * Objectifs principaux de la plateforme :
@@ -37,7 +50,7 @@ En plus de ses catalogues, chaque utilisateur dispose de deux espaces distincts 
 
 * **Sponsor** : la **direction** finance le projet et arbitre ses orientations.
 * **Expression du besoin** : le **responsable éditorial·e** et le **product manager**, épaulés des **community managers**.
-* La grande majorité des données sont publiées par les utilisateurs. Les premières données sont produites par le **panel de bêta-testeurs**.
+* La grande majorité des données sont publiées par les utilisateurs. Sur la nouvelle plateforme, les premières données sont produites par le **panel de bêta-testeurs**.
 * L'équipe métier fournit des recettes de haute qualité suivant un fil conducteur qui évoluera au fil des saisons. Elle promeut une alimentation saine et de saison, favorisant les produits locaux.
 * La communauté n'est pas commanditaire : elle est **bénéficiaire** du projet. Le commanditaire porte sa voix au sein de l'organisation.
 
@@ -189,6 +202,7 @@ Exemple de minimisation :
 
 Paramètres volontairement non fixés à ce stade, qui pourront être précisés lors des entretiens :
 
+* reprise des recettes communautaires de la plateforme actuelle dans la nouvelle (périmètre, conditions juridiques, rattachement aux auteurs, qualité des données) ;
 * poids de chaque niveau d'engagement ;
 * fenêtre de temps des tendances ;
 * règles d'arbitrage entre calcul automatique et intelligence collective pour la saisonnalité ;
