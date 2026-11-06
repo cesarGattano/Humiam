@@ -7,7 +7,7 @@ Il existe 3 approches :
 * semi-directive ;
 * non directive.
 
-Nous nous limiterons à l'approche semi-directive.
+Nous nous limiterons à l'approche semi-directive dans l'exercice.
 
 Dans cette approche, les enquêtés sont guidés par l'enquêteur et cadrés sur des thèmes établis à l'avance, mais leur parole est laissée libre grâce à des questions ouvertes ; le rôle de l'enquêteur est d'assurer les relances. L'entretien est structuré comme un entonnoir, passant des généralités aux points précis au fil de l'échange.
 
@@ -24,3 +24,9 @@ Pour préparer une enquête, il est important de :
 * réfléchir aux processus que l'on souhaite explorer durant l'enquête ;
 * écrire la liste des thèmes que l'on souhaite aborder et les ordonner selon un enchaînement logique ;
 * écrire des questions de démarrage pour chaque thème.
+* écrire des questions de relance pour creuser les sujets abordés ou non-abordés
+
+Pour la mise en pratique :
+* Le temps dédié à l'entretient est une composante importante. Elle dépend des disponibilités et conditionne le nombre de questions qu'il sera possible de poser.
+* Le fichier [producers_interview_grid.md](producers_interview_grid.md) est un cas idéal couvrant la totalité des informations recherchées.
+* En pratique, il sera nécessaire de sélectionner les questions les plus pertinentes en fonction du temps accordés à l'enquête (ou faire l'enquête en plusieurs fois)

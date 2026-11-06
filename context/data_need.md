@@ -12,7 +12,8 @@
   * recettes consultables et trouvables par **recherche par mot-clé** uniquement ;
   * aucune organisation possible des recettes par l'internaute (ni catalogue, ni espace personnel) ;
   * aucun suivi des consultations, aucune personnalisation pour un abonné ;
-  * l'ensemble est devenu difficile à utiliser et **irritant** pour les internautes.
+  * l'ensemble est devenu difficile à utiliser et **irritant** pour les internautes ;
+  * la publicité en particulier est devenue trop intrusive dans l'expérience.
 * Le projet consiste à **créer une nouvelle plateforme**, indépendante de l'actuelle, de façon modulaire.
 * La nouvelle plateforme s'accompagne de **deux orientations stratégiques nouvelles** :
   * **alimentation saine** : sur la plateforme actuelle, aucun objectif explicite ne visait à promouvoir des recettes saines ; les chefs cuisiniers le faisaient de façon implicite, dans leur pratique. Avec la nouvelle plateforme, l'entreprise fait de ce thème, en progression dans le monde de la cuisine, un axe explicite ;
@@ -61,13 +62,13 @@ En plus de ses catalogues, chaque utilisateur dispose de deux espaces distincts 
 * **Question** : quel est le taux d'interactivité de la communauté ? Les utilisateurs centralisent-ils leurs propres recettes ou vont-ils plutôt chercher celles des autres ?
 * **Mesures envisagées** : les interactions sont hiérarchisées en niveaux d'engagement croissants.
 
-| Niveau | Type d'engagement | Interactions |
-|---|---|---|
-| 1 | **Passif** (invisible) | Temps passé sur une page, parcours du catalogue d'un autre utilisateur |
-| 2 | **Réactif** (visible, sans effort) | Smiley posé sur un contenu, abonnement à un autre utilisateur |
-| 3 | **Appropriation et partage** | Ajout d'une recette à son espace « Inspiration », partage volontaire d'une recette à un autre utilisateur (notification privée par exemple) |
-| 4 | **Intention, conservation et création** | Ajout d'une recette à son espace « Cuisine », ajout de la recette d'un autre utilisateur à l'un de ses catalogues, création d'une variante |
-| 5 | **Réalisation** | Réalisation déclarée d'une recette |
+| Niveau | Type d'engagement                       | Interactions                                                                                                                                |
+| ------ | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | **Passif** (invisible)                  | Temps passé sur une page, parcours du catalogue d'un autre utilisateur                                                                      |
+| 2      | **Réactif** (visible, sans effort)      | Smiley posé sur un contenu, abonnement à un autre utilisateur                                                                               |
+| 3      | **Appropriation et partage**            | Ajout d'une recette à son espace « Inspiration », partage volontaire d'une recette à un autre utilisateur (notification privée par exemple) |
+| 4      | **Intention, conservation et création** | Ajout d'une recette à son espace « Cuisine », ajout de la recette d'un autre utilisateur à l'un de ses catalogues, création d'une variante  |
+| 5      | **Réalisation**                         | Réalisation déclarée d'une recette                                                                                                          |
 
 * Pour savoir si les utilisateurs centralisent leurs propres recettes ou vont chercher celles des autres : part des recettes de l'utilisateur et part des recettes des autres dans ses catalogues.
 * Pour ses propres recettes, distinction selon leur **origine** : création personnelle, import depuis un site, saisie depuis un livre.
