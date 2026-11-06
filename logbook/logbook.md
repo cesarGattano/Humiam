@@ -1,6 +1,80 @@
 # Logbook - Humiam project
 
+# Template
+
+## Semaine xx - 202x
+
+### dd / mm / yyyy
+
+**Task** :
+
+**Action details**:
+* ...
+* ...
+
+**Technical choice**:
+* ...
+* ...
+  
+**Encountered problem**:
+
+**Solution found**:
+* ...
+* ...
+  
+**Choice**:
+
+**Useful links**
+* ...
+* ...
+
+---
+
+---
+
+---
+
 ## Week 45  - 2026
+
+### 04-05 / 11 / 2026
+
+**Task** : Réaliser la grille d'entretien "producer"
+
+**Action details**:
+* Brainstorming avec Claude Code
+* Rédaction itérative entre Claude et moi-même
+
+**Technical choice**:
+* Claude Code
+  
+**Encountered problem**:
+* Problèmes de cohérence entre tous les fichiers
+* Production avec Claude est vite très sophistiquée
+
+**Solution found**:
+* Claude est excellent pour contrôler la cohérence
+
+**Useful links**
+* [Grille d'entretien](../deliverables/bloc1/evaluation1/producers_interview_grid.md)
+* [Besoin data](../context/data_need.md)
+* [Producteurs identifiés](../context/data_producers.md)
+* [Points d'attention RDGP](../context/rgpd_watchlist.md)
+
+### 04 / 11 / 2026
+
+**Task** : Réaliser les grilles d'entretien
+
+**Action details**:
+* Lecture de contenus en ligne suggérée par Claude
+  
+**Encountered problem**:
+* Je ne comprenais pas ce qu'est une grille d'entretien et comment elle s'utilise.
+
+**Useful links**
+* https://moodle.umontpellier.fr/pluginfile.php/1249520/mod_folder/content/0/Entretien%20Document%202.pdf?forcedownload=1
+* https://aide-siteweb.pantheonsorbonne.fr/sites/default/files/2024-01/modele_guide_dentretien.pdf
+* https://www.gov.uk/service-manual/user-research/using-in-depth-interviews
+
 
 ### 03 / 11 / 2026
 
@@ -67,31 +141,3 @@
 * Voir [diagramme](../diagrams/individuals.drawio.svg)
   
 ---
-
-# Template
-
-## Semaine xx - 202x
-
-### dd / mm / yyyy
-
-**Task** :
-
-**Action details**:
-* ...
-* ...
-
-**Technical choice**:
-* ...
-* ...
-  
-**Encountered problem**:
-
-**Solution found**:
-* ...
-* ...
-  
-**Choice**:
-
-**Useful links**
-* ...
-* ...
